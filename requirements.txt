@@ -1,0 +1,7 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+langgraph==0.0.32
+sentence-transformers==2.6.1
+scikit-learn==1.4.1
+numpy==1.26.4
+python-dotenv==1.0.1
