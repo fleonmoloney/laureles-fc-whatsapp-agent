@@ -1,0 +1,2 @@
+# Opcional: redacción de respuestas con un LLM (variables LLM_MODEL y ANTHROPIC_API_KEY).
+anthropic>=0.50
