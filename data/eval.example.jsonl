@@ -1,0 +1,35 @@
+{"message": "cuánto hay que pagar por mes para ser del club", "expect": "cuota_monto"}
+{"message": "¿a cuánto está la cuota?", "expect": "cuota_monto"}
+{"message": "hasta qué fecha tengo plazo para abonar la cuota", "expect": "cuota_vencimiento"}
+{"message": "si pago la cuota el 15 tengo recargo?", "expect": "cuota_vencimiento"}
+{"message": "¿puedo abonar con tarjeta de débito?", "expect": "cuota_pago"}
+{"message": "formas de pago de la cuota social", "expect": "cuota_pago"}
+{"message": "¿a qué hora cierra la secretaría?", "expect": "secretaria_horario"}
+{"message": "¿los sábados atienden en secretaría?", "expect": "secretaria_horario"}
+{"message": "¿hasta qué hora puedo usar la cancha?", "expect": "cancha_horario"}
+{"message": "¿la cancha abre los domingos?", "expect": "cancha_horario"}
+{"message": "¿a qué hora juega el equipo de local?", "expect": "primer_equipo"}
+{"message": "¿los partidos son los domingos?", "expect": "primer_equipo"}
+{"message": "quiero hacerme socio, ¿qué papeles llevo?", "expect": "alta_socio"}
+{"message": "¿cómo es el trámite para asociarme?", "expect": "alta_socio"}
+{"message": "necesito darme de baja", "expect": "baja_socio"}
+{"message": "¿cómo cancelo mi cuota y dejo de ser socio?", "expect": "baja_socio"}
+{"message": "se me perdió el carnet", "expect": "carnet"}
+{"message": "¿cuánto cuesta sacar de nuevo el carnet?", "expect": "carnet"}
+{"message": "¿mi hijo de 8 años puede ir a jugar al fútbol los sábados?", "expect": "escuelita"}
+{"message": "información de la escuelita", "expect": "escuelita"}
+{"message": "¿cuánto sale ver un partido?", "expect": "entradas"}
+{"message": "¿entran gratis los socios?", "expect": "entradas"}
+{"message": "¿tienen un número de teléfono?", "expect": "contacto"}
+{"message": "¿a qué mail les escribo?", "expect": "contacto"}
+{"message": "¿Cuánto cuesta alquilar la cancha para un cumpleaños?", "expect": null}
+{"message": "¿Contra quién juegan el domingo?", "expect": null}
+{"message": "Mi hijo se lastimó en la escuelita y quiero hacer un reclamo", "expect": null}
+{"message": "¿Quién es el técnico del primer equipo?", "expect": null}
+{"message": "¿Hay descuento en la cuota si anoto a mis tres hermanos?", "expect": null}
+{"message": "¿Hay estacionamiento en el club?", "expect": null}
+{"message": "¿Pueden darme una constancia de socio para presentar en mi trabajo?", "expect": null}
+{"message": "Quiero donar camisetas al club", "expect": null}
+{"message": "¿Cuándo son las elecciones del club?", "expect": null}
+{"message": "hola", "expect": null}
+{"message": "¿Dónde queda el club?", "expect": null}

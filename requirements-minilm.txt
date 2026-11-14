@@ -1,0 +1,2 @@
+# Opcional: embeddings semánticos (EMBEDDER=minilm). Descarga PyTorch y el modelo la primera vez.
+sentence-transformers>=2.6

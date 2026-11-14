@@ -1,0 +1,136 @@
+{
+  "_aviso": "DATOS FICTICIOS de ejemplo para probar el código. Reemplazar por las preguntas frecuentes reales del club (variable FAQ_PATH).",
+  "entries": [
+    {
+      "id": "cuota_monto",
+      "topic": "cuotas",
+      "question": "¿Cuánto sale la cuota social?",
+      "aliases": [
+        "¿Cuál es el valor de la cuota mensual?",
+        "precio de la cuota de socio",
+        "¿Cuánto cuesta ser socio por mes?"
+      ],
+      "answer": "La cuota social mensual es de $1.200 para socios mayores y $600 para menores de 14 años."
+    },
+    {
+      "id": "cuota_vencimiento",
+      "topic": "cuotas",
+      "question": "¿Hasta qué día puedo pagar la cuota?",
+      "aliases": [
+        "¿Cuándo vence la cuota?",
+        "fecha límite de pago de la cuota",
+        "vencimiento de la cuota social"
+      ],
+      "answer": "La cuota vence el día 10 de cada mes. Pasada esa fecha se recarga un 10 %."
+    },
+    {
+      "id": "cuota_pago",
+      "topic": "cuotas",
+      "question": "¿Cómo puedo pagar la cuota?",
+      "aliases": [
+        "¿Dónde se paga la cuota?",
+        "medios de pago de la cuota",
+        "¿Se puede pagar por transferencia?"
+      ],
+      "answer": "Podés pagar en secretaría (efectivo o débito) o por transferencia bancaria a la cuenta del club, mostrando el comprobante en secretaría."
+    },
+    {
+      "id": "secretaria_horario",
+      "topic": "horarios",
+      "question": "¿Qué horario tiene la secretaría?",
+      "aliases": [
+        "¿A qué hora abre la secretaría?",
+        "horario de atención de secretaría",
+        "¿Hasta qué hora atienden en secretaría?"
+      ],
+      "answer": "La secretaría atiende de lunes a viernes de 15:00 a 20:00 y los sábados de 9:00 a 12:00."
+    },
+    {
+      "id": "cancha_horario",
+      "topic": "horarios",
+      "question": "¿En qué horarios se puede usar la cancha?",
+      "aliases": [
+        "horarios de la cancha",
+        "¿Cuándo está abierta la cancha?",
+        "¿A qué hora se puede jugar en la cancha?"
+      ],
+      "answer": "La cancha está habilitada de lunes a sábado de 9:00 a 22:00. Los domingos solo hay partidos del club."
+    },
+    {
+      "id": "primer_equipo",
+      "topic": "fixture",
+      "question": "¿Cuándo juega el primer equipo?",
+      "aliases": [
+        "¿A qué hora son los partidos de local?",
+        "horario de los partidos del domingo"
+      ],
+      "answer": "El primer equipo juega de local los domingos a las 15:30. Si hay cambios, se avisan en las redes del club."
+    },
+    {
+      "id": "alta_socio",
+      "topic": "socios",
+      "question": "¿Cómo me hago socio?",
+      "aliases": [
+        "quiero asociarme al club",
+        "¿Qué necesito para ser socio?",
+        "trámite de alta de socio"
+      ],
+      "answer": "Para asociarte tenés que ir a secretaría con tu cédula y completar la ficha de ingreso. El carnet se entrega a los 7 días."
+    },
+    {
+      "id": "baja_socio",
+      "topic": "socios",
+      "question": "¿Cómo me doy de baja como socio?",
+      "aliases": [
+        "quiero dejar de ser socio",
+        "trámite de baja",
+        "cancelar mi asociación al club"
+      ],
+      "answer": "La baja se tramita en secretaría con tu cédula, estando al día con la cuota. También podés pedirla por escrito al correo del club."
+    },
+    {
+      "id": "carnet",
+      "topic": "socios",
+      "question": "¿Cómo saco el carnet de socio?",
+      "aliases": [
+        "perdí mi carnet de socio",
+        "¿Dónde retiro el carnet?",
+        "reposición del carnet"
+      ],
+      "answer": "El carnet se retira en secretaría con tu cédula. La reposición por pérdida cuesta $200."
+    },
+    {
+      "id": "escuelita",
+      "topic": "deportes",
+      "question": "¿Hay escuelita de fútbol para niños?",
+      "aliases": [
+        "fútbol infantil horarios",
+        "¿Dónde anoto a mi hijo en la escuelita?",
+        "inscripción a la escuelita de fútbol"
+      ],
+      "answer": "La escuelita funciona los sábados de 10:00 a 12:00 para niños de 5 a 12 años. La inscripción se hace en secretaría."
+    },
+    {
+      "id": "entradas",
+      "topic": "fixture",
+      "question": "¿Cuánto cuesta la entrada a los partidos?",
+      "aliases": [
+        "precio de la entrada",
+        "¿Los socios pagan entrada?",
+        "valor de las entradas para ver al equipo"
+      ],
+      "answer": "Los socios al día entran gratis con su carnet. La entrada general cuesta $300 y los menores de 12 años no pagan."
+    },
+    {
+      "id": "contacto",
+      "topic": "contacto",
+      "question": "¿Cuál es el teléfono del club?",
+      "aliases": [
+        "número para comunicarse con el club",
+        "¿Cómo me contacto con la secretaría?",
+        "correo electrónico del club"
+      ],
+      "answer": "Podés llamar a la secretaría al 4000 0000 en el horario de atención o escribir a secretaria@laureles.example."
+    }
+  ]
+}
